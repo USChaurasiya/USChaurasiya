@@ -30,10 +30,3 @@ Here are some ideas to get you started:
 <h4 align="center">Profile views counter :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{USChaurasiya}/count.svg" alt="USChaurasiya :: Visitors Count in GitHub" /></p>
 <hr>
-
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/USChaurasiya/USChaurasiya/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
