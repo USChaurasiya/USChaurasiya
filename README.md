@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p/>
   <img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USChaurasiya&theme=github_dark' />
   <img height= "199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USChaurasiya&theme=github_dark&layout=compact" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USChaurasiya&langs_count=8&hide=python&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USChaurasiya&langs_count=8&hide=python&layout=compact&theme=dark" />
 </p>
 
 
